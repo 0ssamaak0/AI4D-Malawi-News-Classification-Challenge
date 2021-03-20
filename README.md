@@ -1,10 +1,10 @@
 # AI4D-Malawi-News-Classification-Challenge
 ## This is a Contribution to Zindi Competition: AI4D Malawi News Classification Challenge
 
-### The goal of the comptetition is to classify news articles into 19 classes.
+### The goal of the comptetition is to classify news articles into 20 classes.
 
 ## Steps
-### After the typical steps of importing the libraries and reading the trainging data set, we checked of the articles was euqally divided according to the label. but it wasn't
+### After the typical steps of importing the libraries and reading the training data set, we checked of the articles was euqally divided according to the label. but it wasn't
 - so we decided the whole program must consider percentages, not absolute numbers
 #### To remove the useless common words: Pronous, prepositions and etc we started to check the occurance percentages of the words
 - visually: using Wordcloud for each label
