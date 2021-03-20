@@ -16,4 +16,4 @@ Removing the uneeded words from the Dataframe, we have a relativly unique text c
 #### for example: the word lorem has a percentage of occurance of 0.3% in a test sample. and it has a percentage of occurance of 0.25% in Label A,
 #### Label A gets a score of 0.3 . 0.25 = 0.075*
 
-[This Submission scored 0.4032 with rank 123 of 150] [https://zindi.africa/users/0ssamaak0/competitions/certificate]
+[This Submission scored 0.4032 with rank 123 of 150](https://zindi.africa/users/0ssamaak0/competitions/certificate)
