@@ -13,7 +13,6 @@
 Removing the uneeded words from the Dataframe, we have a relativly unique text contents
 #### Then we made a dictionary that contains the most occured words in each Label and their frequency of occurance.
 #### we will multiply the percentage of occurance of the word in each testing data by the the percentage of occurance of the same word in a certain label in order to find a weighted score.
-#### for example: the word lorem has a percentage of occurance of 0.3% in a test sample. and it has a percentage of occurance of 0.25% in Label A,
-#### Label A gets a score of 0.3 . 0.25 = 0.075*
+#### for example: the word lorem has a percentage of occurance of 0.3% in a test sample. and it has a percentage of occurance of 0.25% in Label A, so Label A gets a score of 0.3 . 0.25 = 0.075*
 
 [This Submission scored 0.4032 with rank 123 of 150](https://zindi.africa/users/0ssamaak0/competitions/certificate)
